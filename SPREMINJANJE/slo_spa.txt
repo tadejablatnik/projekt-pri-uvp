@@ -1,0 +1,82 @@
+kmet,el agricultor
+zidar,el albanil
+gospodinja,el ama de casa
+rumena,amarillo
+modta,azul
+plesati,bailar
+piti,beber
+bela,blanco
+gasilec,el bombero
+natakar,el camarero
+pevka,la cantante
+peti,cantar
+mizar,el carpintero
+poštar,el cartero
+pujs,el cerdo
+èokolada,el chocolate
+nebo,el cielo
+kuhati,cocinar
+kuhar,el cocinero
+jesti,comer
+srce,el corazon
+teèi,correr
+prodajalka,la dependienta
+zdravnica,la doctora
+nedelja,domingo
+elektrièar,el electricista
+slon,el elefante
+uslužbenec,el empleado
+pisati,escribir
+poslušati,escuchar
+smuèati,esquiar
+flamingo,el flamenco
+vodovodar,el fontanero
+siva,gris
+govoriti,hablar
+dim,el humo
+zima,el invierno
+èetrtek,jueves
+igrati,jugar
+sivka,la lavanda
+brati,leer
+ponedeljek,lunes
+morje,el mar
+oznaèiti,marcar
+rjava,marron
+torek,martes
+mehanik,el mecanico
+sreda,miercoles
+gledati,mirar
+vijolièna,morado
+oranžna,naranja
+pomaranèa,la naranja
+èrna,negro
+sneg,la nieve
+noè,la noche
+delavec,el obrero
+opazovati,observar
+jesen,el otono
+ovca,la oveja
+frizerka,la peluquera
+hruška,la pera
+tabla,la pizzara
+pomlad,la primavera
+profesorica,la profesora
+zenica,la pupila
+rdeèa,rojo
+vrtnica,la rosa
+roza,rosa
+sobota,sabado
+kri,la sangre
+tajnica,la secretaria
+sonce,el sol
+zemlja,la tierra
+tiger,el tigre
+poletje,el verano
+zelena,verde
+veterinar,el veterinario
+potovati,viajar
+petek,viernes
+vijolica,la violeta
+jogurt,el yogur
+korenje,la zanahoria
